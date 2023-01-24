@@ -16,7 +16,7 @@ class ViewController: UIViewController {
 
     let fileName = "MAFTEST"
     let fileType = "p12"
-    let passphrase = "Mobile123"
+    let passphrase = "12345678"
     
     override func viewDidLoad() {
         super.viewDidLoad()
